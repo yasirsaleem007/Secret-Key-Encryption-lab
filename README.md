@@ -73,6 +73,7 @@ Created a text file greater than 1000 bytes in size. The file is essentially a r
 Corrupted encryption by changing 1 bit of the encrypted file for each type of encryption are shown below in the same order.
 
 ![image](https://user-images.githubusercontent.com/93581168/147962606-1235d225-9882-4801-ae08-2b8e346cd6f3.png)
+
 Observation:
 
 ![image](https://user-images.githubusercontent.com/93581168/147962631-20ed36a7-0b9f-4fb7-a158-de73e15b468c.png)
